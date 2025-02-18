@@ -9,7 +9,7 @@ const Login = () => {
     return(
         <View>
             <TextInput
-            style={styles.}
+            style={styles.input}
             />
             <TextInput/>
         </View>
