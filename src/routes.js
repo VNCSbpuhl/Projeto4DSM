@@ -10,7 +10,7 @@ export default function Routes() {
     return(
        <Stack.Navigator>
               {/* <Stack.Screen name="Login" component={Login} /> */}
-              <Stack.Screen name="Página Inicial" component={Main} />
+              <Stack.Screen name="Main" component={Main} />
               {/* <Stack.Screen name="User" component={User} />   */}
        </Stack.Navigator> 
     )
